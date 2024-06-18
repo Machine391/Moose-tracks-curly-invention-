@@ -1,5 +1,5 @@
 Sure, here's how you can organize the code into individual scripts for each functionality:
-
+Dockerfile
 1. **Initial Setup Script (`initial_setup.sh`):**
 ```bash
 #!/bin/bash
